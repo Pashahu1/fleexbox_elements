@@ -17,10 +17,12 @@
 
 
 .box-1{
-  width: 50px;
+  flex-grow: 1;
+  width: 60px;
   background-color: yellow;
 }
 .box-2 {
+  flex-grow: 1;
   width: 80px;
   background-color: green;
 }
